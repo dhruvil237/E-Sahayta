@@ -221,7 +221,7 @@ E-Sahayta makes human computer interaction simple by making use of Hand Gestures
   ``` 
   cd to the GitHub Repo till src folder
   ```
-  Command may look like: `cd C:\Users\.....\Gesture-Controlled-Virtual-Mouse\src`
+  Command may look like: `cd C:\Users\.....\E-Sahayta\src`
   
   Step 6:
   
